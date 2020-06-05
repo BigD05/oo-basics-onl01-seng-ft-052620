@@ -31,4 +31,3 @@ def initialize(title)
     @genre
   end
 
-
