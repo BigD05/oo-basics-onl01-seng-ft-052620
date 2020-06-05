@@ -6,7 +6,6 @@ def title
   @title = title 
 end 
 def author =(author)
-  @
 @author = author 
 end 
 def author 
