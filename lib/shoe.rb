@@ -9,9 +9,8 @@ class Shoe
     @brand 
    end 
    def cobble 
-     puts "Your shoe is as good as new!"
-     
-  
-end 
+     if self.new = "new"
+       puts "Your shoe is as good as new!"
+     end 
   
   end 
