@@ -13,4 +13,5 @@ class Shoe
      end 
 def shoe_condition 
   puts "new"
+end 
   end 
